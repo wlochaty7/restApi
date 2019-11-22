@@ -1,0 +1,5 @@
+app/services/MyService.class
+app/Application.class
+app/dto/UsersDTO.class
+app/controllers/MyController.class
+app/services/MyServiceImpl.class
